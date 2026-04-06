@@ -1,5 +1,3 @@
-![GraphGuardians Banner](https://via.placeholder.com/1200x300.png?text=GraphGuardians)
-
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Hackathon](https://img.shields.io/badge/IIT%20Delhi-Hackathon-blue)
 ![Tech](https://img.shields.io/badge/Stack-Node%20%7C%20React%20%7C%20TigerGraph-orange)
